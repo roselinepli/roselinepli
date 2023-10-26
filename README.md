@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Roseline.
 
-<p>A self-taught programmer who is constantly eager to expand my knowledge and stay updated with emerging technologies.</p>
+<p>A dedicated programmer who is constantly eager to expand my knowledge and stay updated with emerging technologies.</p>
 
 ### Tech Stack
 
